@@ -1,5 +1,22 @@
+---
+title: Then или Than? Да кто их вообще придумал такими похожими?
+date: 2025-07-23
+published:
+  - platform: Telegram
+    url: https://t.me/LangEngRu/5
+    date: 2025-07-23
+  - platform: pikabu
+    url: https://pikabu.ru/story/then_ili_than_da_kto_ikh_voobshche_pridumal_takimi_pokhozhimi_13038079
+    date: 2025-08-04
+  - platform: Dzen
+    url: https://dzen.ru/a/aJXmqj9qbkpEWmiv
+    date: 2025-08-08
+---
+
 **Then или Than? Да кто их вообще придумал такими похожими?**  
   
+![](2025-07-23-then-or-than.jpg)
+
 Из классики путаницы для изучающих английский — **then** и **than**.  
   
 Пишутся похоже. Звучат похоже. А смысл — совсем разный.  
