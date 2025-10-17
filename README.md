@@ -11,3 +11,4 @@
 
 - [What’s up? — или как сказать «Как дела?» и не запутаться](articles/2025-07-22-whats-up.md)
 - [Then или Than? Да кто их вообще придумал такими похожими?](articles/2025-07-23-then-or-than.md)
+- [Desert or dessert? Мой мозг хочет бросить английский, съесть десерт и уйти](articles/2025-07-24-desert-or-dessert.md)

@@ -1,3 +1,18 @@
+---
+title: Desert or dessert? Мой мозг хочет бросить английский, съесть десерт и уйти
+date: 2025-07-24
+published:
+  - platform: Telegram
+    url: https://t.me/LangEngRu/9
+    date: 2025-07-24
+  - platform: pikabu
+    url: https://pikabu.ru/story/desert_or_dessert_moy_mozg_khochet_brosit_angliyskiy_sest_desert_i_uyti_v_pustyinyu_13041980
+    date: 2025-08-05
+  - platform: Dzen
+    url: https://dzen.ru/a/aJZCGzEVpRhWywFC
+    date: 2025-08-08
+---
+
 **Desert or dessert? Мой мозг хочет бросить английский, съесть десерт и уйти в пустыню.**  
   
 Каждый раз, когда встречаются эти два слова — **desert** и **dessert** —  
