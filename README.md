@@ -14,3 +14,4 @@
 - [Desert or dessert? Мой мозг хочет бросить английский, съесть десерт и уйти](articles/2025-07-24-desert-or-dessert.md)
 - ...
 - [2025-10-18-short-post-motivation.md](articles/2025-10-18-short-post-motivation.md)
+- [2025-10-18-hullo.md](articles/2025-10-18-hullo.md)
