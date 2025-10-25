@@ -1,13 +1,13 @@
 ---
-date: 2025-10-26
+date: 2025-10-25
 published:
   - platform: Telegram
     url: https://t.me/LangEngRu/38
     date: 2025-10-26
 ---
 
-![](2025-10-26-mom-dad-capitalization-1.jpg)
-![](2025-10-26-mom-dad-capitalization-2.jpg)
+![](2025-10-25-mom-dad-capitalization-1.jpg)
+![](2025-10-25-mom-dad-capitalization-2.jpg)
 
 **Заметил, что «Mom» и «Dad» иногда пишут с большой буквы**
 
