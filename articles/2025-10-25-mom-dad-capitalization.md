@@ -1,4 +1,5 @@
 ---
+title: Заметил, что «Mom» и «Dad» иногда пишут с большой буквы  
 date: 2025-10-25
 published:
   - platform: Telegram
