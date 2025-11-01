@@ -16,5 +16,5 @@
 - [2025-10-18-short-post-motivation.md](articles/2025-10-18-short-post-motivation.md)
 - [2025-10-18-hullo.md](articles/2025-10-18-hullo.md)
 - [Почему местоимение «I» пишется большой буквой?](articles/2025-10-21-i.md)
-- [Заметил, что «Mom» и «Dad» иногда пишут с большой буквы](articles/2025-10-25-mom-dad-capitalization.md)
+- [«Mom» и «Dad» пишут с большой буквы... но не всегда](articles/2025-10-25-mom-dad-capitalization.md)
 - [Понимание начинается с вопроса](articles/2025-10-26-blog-curiosity-questions.md)
