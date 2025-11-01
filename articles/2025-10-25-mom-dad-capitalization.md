@@ -5,6 +5,9 @@ published:
   - platform: Telegram
     url: https://t.me/LangEngRu/38
     date: 2025-10-26
+  - platform: pikabu
+    url: https://pikabu.ru/story/mom_i_dad_pishut_s_bolshoy_bukvyi_no_ne_vsegda_13341291?utm_source=linkshare&utm_medium=sharing
+    date: 2025-10-29
 ---
 
 ![](2025-10-25-mom-dad-capitalization-1.jpg)

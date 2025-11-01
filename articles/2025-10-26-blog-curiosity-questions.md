@@ -3,7 +3,7 @@ title: О блоге, любопытстве и вопросах
 date: 2025-10-26
 published:
   - platform: Telegram
-    url: https://t.me/LangEngRu/40
+    url: https://t.me/LangEngRu/41
     date: 2025-10-27
 ---
 
