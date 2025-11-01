@@ -18,3 +18,4 @@
 - [Почему местоимение «I» пишется большой буквой?](articles/2025-10-21-i.md)
 - [«Mom» и «Dad» пишут с большой буквы... но не всегда](articles/2025-10-25-mom-dad-capitalization.md)
 - [Понимание начинается с вопроса](articles/2025-10-26-blog-curiosity-questions.md)
+- [Пост-вопрос в продолжение темы про написание «Mom» и «Dad» с большой буквы](articles/2025-11-01-mom-dad-capitalization-question.md)
